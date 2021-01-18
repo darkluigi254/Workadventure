@@ -19,7 +19,25 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"...\/Upstairs\/upstairs.json#treppeHoch"
+                 "value":"..\/Upstairs\/upstairs.json#treppeHoch"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":12,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 154, 154, 154, 0, 0, 0],
+         "height":12,
+         "id":9,
+         "name":"exit_tuer",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitSceneUrl",
+                 "type":"string",
+                 "value":"..\/..\/outside.json#house1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -38,24 +56,6 @@
                  "name":"silent",
                  "type":"bool",
                  "value":true
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":12,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 154, 154, 154, 0, 0, 0],
-         "height":12,
-         "id":9,
-         "name":"exit_tuer",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"exitSceneUrl",
-                 "type":"string",
-                 "value":"...\/...\/outside.json#house1"
                 }],
          "type":"tilelayer",
          "visible":true,
